@@ -1,0 +1,11 @@
+{
+    "colour": ["red","blue","yellow","green"],
+    "land_type": ["pasture", "forest", "water", "wheat", "desolate", "mine"],
+    "crowns": [0,1,2,3],
+    "quantity": [],
+    "tile": [
+        {"number":1,    "side1":0,  "side2":0  },
+        {"number":2,    "side1":0,  "side2":0  },
+        {"number":3,    "side1":0,  "side2":0  }
+    ]
+}
